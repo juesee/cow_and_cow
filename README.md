@@ -5,3 +5,17 @@
 [在线体验地址](https://summmer-is-hot.github.io/cow_and_cow/)
 
 ![nlgn.png](https://cdn.statically.io/gh/summmer-is-hot/picture-store/main/cow_and_cow/nlgn.webp)
+
+# 安装开发工具
+    nodejs,vscode
+# vscode安装扩展 
+    UnoCSS(Anthony Fu) , Vite(Anthony Fu)
+# 安装依赖
+    npm install package.json --save-dev
+    或者
+    1. yarn 
+    2. yarn dev
+# 打包发布到dist
+    npm run build
+# 预览
+    npm run preview 
